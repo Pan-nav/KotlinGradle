@@ -1,0 +1,4 @@
+name: KotlinTest
+version: '${version}'
+main: com.panav.kotlintest.Main
+api-version: 1.19
